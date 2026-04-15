@@ -1,4 +1,12 @@
-export const asesores = ["Yamil Temple", "Ivan Ramirez", "Verónica González"];
+export const asesores = [
+  "Sheyla Navarro Contreras",
+  "Jose Alfredo Barranca Reyes",
+  "Adrian Galvez Roldan",
+  "Malu Vanvollehoven",
+  "Marelly Tenorio Salinas",
+  "Elia Arano Reyes",
+  "Jorge Luis Alamillo Rodriguez",
+];
 
 export const motivos = [
   "Muy satisfecho",
