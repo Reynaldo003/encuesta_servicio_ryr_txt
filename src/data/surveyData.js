@@ -1,11 +1,6 @@
 export const asesores = [
-  "Sheyla Navarro Contreras",
-  "Jose Alfredo Barranca Reyes",
-  "Adrian Galvez Roldan",
-  "Malu Vanvollehoven",
-  "Marelly Tenorio Salinas",
-  "Elia Arano Reyes",
-  "Jorge Luis Alamillo Rodriguez",
+  "Isis del Carmen Frutos Solis",
+  "Ana Rosa Andrade García",
 ];
 
 export const motivos = [
